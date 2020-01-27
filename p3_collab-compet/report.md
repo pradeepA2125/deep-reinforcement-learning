@@ -69,7 +69,7 @@ The code consist of :
 
 #### MADDPG parameters
 
-The final version of my MADDPG agents uses the following parameters values (These parameters are passed in the `hyperparameters.py`  file.
+The final version of my MADDPG agents uses the following parameters values 
 
 ```
 
