@@ -71,7 +71,7 @@ The code consist of :
 
 The final version of my MADDPG agents uses the following parameters values (These parameters are passed in the `hyperparameters.py`  file.
 
-``
+```
 
 NB_EPISODES = 1000                # Max nb of episodes
 NB_STEPS = 500                    # Max nb of steps per episodes 
@@ -98,8 +98,6 @@ ADD_OU_NOISE = True                # Add Ornstein-Uhlenbeck noise
 
 NOISE = 2.0                        # Initial Noise Amplitude 
 NOISE_REDUCTION = 0.99              # Noise amplitude decay ratio
-```
-
 ```
             
 
